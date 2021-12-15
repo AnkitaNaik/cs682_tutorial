@@ -4,6 +4,8 @@ This project includes material for a tutorial session conducted for the course [
 <br>
 The session covered techniques for visualizations and error analysis for simple deep learning models developed in PyTorch or Tensorflow. 
 Moreover, it includes a demonstration of using [wandb](https://wandb.ai/site), an MLOps platform.
+<br>
+The recorded session is available [here](https://drive.google.com/file/d/1qEyVMktMnHeToHCBsvyCZjUEuH9anbsk/view?usp=sharing).
 
 ## Contents
 The session was conducted as a collection of .ipynb notebooks and presentation covering model debugging techniques:
