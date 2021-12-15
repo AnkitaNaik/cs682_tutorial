@@ -19,3 +19,6 @@ The session was conducted as a collection of .ipynb notebooks and presentation c
 5. [How to unit test machine learning code](https://thenerdstation.medium.com/how-to-unit-test-machine-learning-code-57cf6fd81765)
 6. [A Recipe to training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
+
+## Collaborators
+Ankita Rajaram Naik (TA for CS682 Fall 2021), Hadeel Eladawy, Allison Poh
