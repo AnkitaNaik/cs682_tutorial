@@ -1,0 +1,12 @@
+# CS682 Tutorial Session
+
+This project includes material for a tutorial session conducted for the course [CS682 : Neural Networks: A Modern Introduction course](https://compsci682-fa21.github.io/). <br>
+The session includes techniques for visualizations and error analysis for simple deep learning models. Moreover, it includes a demonstration of using [wandb](https://wandb.ai/site), a model analysis tool.
+
+## Contents
+1. Wandb - Python Package to record experiments
+2. Model Debugging
+	a. Debugging Model Inputs - Data Visualization (DataAnalysis.ipynb)
+	b. Debugging Model Architecture - (Project Tutorial Session.pptx)
+	c. Debugging Model Outputs - (WandbDemo.ipynb)
+
